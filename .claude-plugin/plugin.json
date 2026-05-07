@@ -7,10 +7,7 @@
     "url": "https://github.com/SAP-samples"
   },
   "homepage": "https://github.com/SAP-samples/hana-developer-cli-tool-example",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/SAP-samples/hana-cli-claude-plugin"
-  },
+  "repository": "https://github.com/SAP-samples/hana-cli-claude-plugin",
   "license": "Apache-2.0",
   "keywords": [
     "sap",
