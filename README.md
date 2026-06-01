@@ -88,6 +88,20 @@ Once installed, just ask Claude:
 
 [Apache License 2.0](LICENSE)
 
+## Repository Governance
+
+This repository is part of the [SAP-samples](https://github.com/SAP-samples) GitHub
+organisation. Administrative access is granted at the organisation level (SAP OSPO,
+SAP-samples maintainers, automation bots) and is not managed per-repository. There
+are zero direct collaborators on this repository.
+
+The `main` branch is protected by a repository ruleset:
+
+- Pull requests required (no direct pushes)
+- Linear history required
+- Force-pushes blocked
+- Branch deletion blocked
+
 ## Contributing
 
 This plugin wraps [hana-cli](https://github.com/SAP-samples/hana-developer-cli-tool-example), an open-source SAP sample project. Issues and contributions are welcome at the [main repository](https://github.com/SAP-samples/hana-developer-cli-tool-example/issues).
