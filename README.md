@@ -3,6 +3,7 @@
 [![MCP Registry](https://img.shields.io/badge/MCP_Registry-hana--cli-blue)](https://registry.modelcontextprotocol.io/?q=hana-cli)
 [![npm](https://img.shields.io/npm/v/hana-cli)](https://www.npmjs.com/package/hana-cli)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/hana-cli-claude-plugin)](https://api.reuse.software/info/github.com/SAP-samples/hana-cli-claude-plugin)
 
 **150+ SAP HANA database tools as AI-powered MCP tools for Claude Code.**
 
@@ -86,7 +87,8 @@ Once installed, just ask Claude:
 
 ## License
 
-[Apache License 2.0](LICENSE)
+Copyright (c) 2026 SAP SE or an SAP affiliate company. All rights reserved.
+This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
 
 ## Repository Governance
 
